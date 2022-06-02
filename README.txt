@@ -134,7 +134,7 @@ ________________________________________________________________________________
 6.KBC:-
  As the name of the suggests its a quiz game with 10 random questions from our question bank the player's score will be evaluated on the basis of the number of correct answers given in the quiz.
  As refering to the data structure used for storing the question we have used one of the most effecient one which is vector the vector manipulation is carried out by <vector> module
- As mentioned each time a new player will play he will not only face a different set of questions but also different order of options will will make game more interesting
+ As mentioned each time a new player will play he will not only face a different set of questions but also different order of options will make the game more interesting
  The game is truly based on the well checked facts which are obtained by trustworthy resources on internet so no point of ambiguity can occur
  <time.h> module have been used in the game for the generation of the random numbers.
 
