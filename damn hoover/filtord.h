@@ -65,7 +65,6 @@ void updat(string a){
     f.open("tord.txt", ios::app);
     getline(f,b);
     getline(f,b);
-    getline(f,b);
     if(c>stoi(b)){
         ff.open("temp.txt", ios::app);
         ff<<"$"<<a<<endl;
@@ -184,7 +183,7 @@ void hiscot(){
         }
     cout<<endl;
     getline(f,b);
-    getline(f,b);
     cout<<"                    Times played: ";
+    f.close();
     cout<<b<<endl;
 }
