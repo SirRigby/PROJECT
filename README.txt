@@ -159,13 +159,11 @@ ________________________________________________________________________________
 CREDITS:-
 
 Team Lead:-
-
-
+ -->Raj Chaudhary (INFORMATION TEHCNOLOGY I YEAR)
 
 The Team Members:-
  -->Vansh Kunwar Ji (INFORMATION TEHCNOLOGY I YEAR)
  -->Shiwani Tiwari (INFORMATION TEHCNOLOGY I YEAR)
- -->Raj Chaudhary (INFORMATION TEHCNOLOGY I YEAR)
  -->Piyush Kumar (INFORMATION TEHCNOLOGY I YEAR)
 
 REFERENCES:-
