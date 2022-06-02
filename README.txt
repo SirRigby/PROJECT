@@ -4,24 +4,24 @@
 
 ~INTRODUCTION:-
 
- Our a project regarding intergrating different type of basic games using the cpp language and creating a menu based user freindly enviorment for entertainment.
- These are games that we have implemented in our source code:-
-  1.tick tac toe
-  2.avengers secret wars 
-  3.snake water gun
-  4.truth and dare 
-  5.guess the numbers
-  6.kbc
- (taking into consideration that we can add more games to our code just by intergrating their source code with the main code without any prodigous changes)
- The soul concept of working on a project mentioned to create a menu based user input driven program which can be used for entertainment propose 
+ Our a project regarding integrating different types of basic games using the cpp language and creating a menu based user friendly environment for entertainment.
+ These are the games that we have implemented in our source code:-
+  1.Tic Tac Toe
+  2.Avengers Secret Wars
+  3.Snake Water Gun
+  4.Truth and Dare
+  5.Guess the number
+  6.KBC
+ (taking into consideration that we can add more games to our code just by integrating their source code with the main code without any prodigous changes)
+ The sole concept of working on a project mentioned to create a menu based user input driven program which can be used for entertainment purposes
 
- our project uses the following programming concept
+ our project uses the following programming concepts
  1.OOP(OBJECT ORIENTED PROGRAMMING)
  2.CPP Language
  3.File handling(for keepping track record of a players activity)
  4.Basic knowledge of problem solving
 
- For the user who wants to user our project does not requires any pre requistic knowledge a person with almost no coding background can go for it and enjoy gaming
+ For the user who wants to user our project does not requires any prerequisite knowledge a person with almost no coding background can go for it and enjoy gaming
  (For black box testing- A person knowing the above mentioned concepts can easily understand our code in background)
 
 ______________________________________________________________________________________________________________________________________________________________________________________
@@ -30,23 +30,23 @@ ________________________________________________________________________________
 ~DESCRIPTION OF THE GAMES:-
 
 1.SNAKE WATER GUN:
- Snake water gun is a classic game which is a single player stuff the user can select their choice amoung snake water and gun after the selction of the user the computer will also select from the same
+ Snake water gun is a classic game which is a single player stuff the user can select their choice among snake water and gun after the selection of the user the computer will also select from the same
  the code is so designed that the choice of the computer will be random each time without any biasing.
- The source code of the game consist of simple cpp language and addtional package <time.h> for genration of random numbers.
+ The source code of the game consist of simple cpp language and addtional package <time.h> for generation of random numbers.
 
  The following flow of control will be used to for making the decision of the winner
 
                                                                         SNAKE----->WATER
-																		WATER----->GUN
-																		GUN------->SNAKE
+								        WATER----->GUN
+								        GUN------->SNAKE
 																		
- The following sorce code has been eqquiped with user freindly interface so the players can enjoy the game without any difficulty.
- Our code is also desinged to keep track of the players who had tried the game before these stats include
- 1.No of vistis
+ The following source code has been equipped with user freindly interface so the players can enjoy the game without any difficulty.
+ Our code is also designed to keep track of the players who had tried the game before these stats include
+ 1.No of visits
  2.No of wins
  3.Win Percentage
 
- Following data were maneged by classical file handling and OOPs used in cpp.
+ Following data were managed by classical file handling and OOPs used in cpp.
  
  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -134,9 +134,9 @@ ________________________________________________________________________________
 6.KBC:-
  As the name of the suggests its a quiz game with 10 random questions from our question bank the player's score will be evaluated on the basis of the number of correct answers given in the quiz.
  As refering to the data structure used for storing the question we have used one of the most effecient one which is vector the vector manipulation is carried out by <vector> module
- As mentioned each time a new player will play he will only only face the different set of question but also different order of options will will make game more intersting
- The game is truly based on the well checked facts which are obatin by trustful resouces on internet so no point of inflation can occur
- <time.h> module have been used in the game for the genreration of the random numbers.
+ As mentioned each time a new player will play he will not only face a different set of questions but also different order of options will will make game more interesting
+ The game is truly based on the well checked facts which are obtained by trustworthy resources on internet so no point of ambiguity can occur
+ <time.h> module have been used in the game for the generation of the random numbers.
 
 
 _______________________________________________________________________________________________________________________________________________________________________________________
@@ -159,12 +159,12 @@ ________________________________________________________________________________
 CREDITS:-
 
 Team Lead:-
- -->Raj Chaudhary (INFORMATION TEHCNOLOGY I YEAR)
+ -->Raj Chaudhary (INFORMATION TECHNOLOGY I YEAR)
 
 The Team Members:-
- -->Vansh Kunwar Ji (INFORMATION TEHCNOLOGY I YEAR)
- -->Shiwani Tiwari (INFORMATION TEHCNOLOGY I YEAR)
- -->Piyush Kumar (INFORMATION TEHCNOLOGY I YEAR)
+ -->Vansh Kunwar Ji (INFORMATION TECHNOLOGY I YEAR)
+ -->Shiwani Tiwari (INFORMATION TECHNOLOGY I YEAR)
+ -->Piyush Kumar (INFORMATION TECHNOLOGY I YEAR)
 
 REFERENCES:-
  The code in the project is purely written from the scratch.
