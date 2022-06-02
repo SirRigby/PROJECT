@@ -38,6 +38,7 @@ void updat(string a){
     ifstream f;
     ofstream ff;
     string b;
+    int c;
     f.open("tord.txt", ios::app);
     ff.open("temp.txt", ios::app);
     while(!f.eof()){
@@ -45,7 +46,8 @@ void updat(string a){
         ff<<b<<endl;
         if(("@$@"+a)==b){
             getline(f,b);
-            ff<<stoi(b)+1<<endl;
+            c=stoi(b)+1;
+            ff<<c<<endl;
             getline(f,b);
             ff<<b<<endl;
        }
@@ -60,6 +62,24 @@ void updat(string a){
     ff.close();
     remove("tord.txt");
     rename("temp.txt", "tord.txt");
+    f.open("tord.txt", ios::app);
+    getline(f,b);
+    getline(f,b);
+    getline(f,b);
+    if(c>stoi(b)){
+        ff.open("temp.txt", ios::app);
+        ff<<"$"<<a<<endl;
+        ff<<c<<endl;
+        ff<<0<<endl;
+        while(!f.eof()){
+            getline(f,b);
+            ff<<b<<endl;
+        }
+        f.close();
+        ff.close();
+        remove("tord.txt");
+        rename("temp.txt", "tord.txt");
+    }
 }
 void updawint(string a){
     ifstream f;
